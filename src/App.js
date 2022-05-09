@@ -1,5 +1,5 @@
-import logo from './logo.png';
-import './App.css';
+import logo from "./logo.png";
+import "./App.css";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dapp University
+          James
         </a>
       </nav>
       <div className="container-fluid mt-5">
@@ -25,9 +25,10 @@ function App() {
               >
                 <img src={logo} className="App-logo" alt="logo" />
               </a>
-              <h1 className="mt-5">Dapp University Starter Kit</h1>
+              <h1 className="mt-5">James</h1>
               <p>
-                Edit <code>src/frontend/components/App.js</code> and save to reload.
+                Edit <code>src/frontend/components/App.js</code> and save to
+                reload.
               </p>
               <a
                 className="App-link"
@@ -35,7 +36,10 @@ function App() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                LEARN BLOCKCHAIN <u><b>NOW! </b></u>
+                {" "}
+                <u>
+                  <b> </b>
+                </u>
               </a>
             </div>
           </main>
